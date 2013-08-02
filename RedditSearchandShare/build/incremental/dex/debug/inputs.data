@@ -1,0 +1,24 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375410411000 232241 9ad605dd55be2e74e614b2ab2ff466439c4461b7 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/libs/universal-image-loader-1.8.6-with-sources.jar
+1375411450000 377 98d92ac1055ccdf4d2b18ca7a8e5b0e948849f1d /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/BuildConfig.class
+1375411450000 251 0ece45c3faefa06ec0fff89abbd8cb8430a5c652 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/RedditList$1.class
+1375412816000 1721 9054fdf207f023242a6dad8bce1d8b05677a12af /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/RedditList$RedditPostArrayAdapter$1.class
+1375411450000 443 ac66712859f485d82eac162ca71652a0a4b3f985 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$menu.class
+1375412816000 2936 60c1d5125a1c27571a7f69b26766f890179afa65 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/RedditList.class
+1375411450000 660 849c53da56cc7205366b71d71b4134d59414561b /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$id.class
+1375411450000 752 651aced236785571a77b56feeac1755923eb4016 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/utilities/ConstantsUtil.class
+1375411450000 484 07624a6929e92d73dd07d71e0e2e604cf9659e2f /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$layout.class
+1375412816000 3618 0f25c0e77f8948b2c55ae6ad5fffe2487dbe57d6 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/RedditList$RedditPostArrayAdapter.class
+1375412816000 2977 90397961c25bbe4ccbcb39acb8f297fdb8ac2fca /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/utilities/JSONParser.class
+1375411450000 520 a85327fb1fd405c4775292d58b16aa6d0e341a21 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$string.class
+1375411450000 837 ef560148ca55b3cb199bb537f42f86e55d5bd055 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R.class
+1375411450000 479 e5f57fef8cdd879b4ed369ac14e4e78abf3a7644 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$style.class
+1375411450000 388 0a06a17ab6f64ae7b97c5af5e91fabeb8769969a /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$attr.class
+1375411450000 509 6faec8f52d973bf52ffa8e16d29681f22bb57367 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$dimen.class
+1375411863000 640 514267804f1982a2ae2927b99f2da069b8f08c73 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/model/RedditPost.class
+1375405453000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375412887000 3116 e52b7c0c0b35a0a5849074f9a2ef7a17af210556 /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/RedditList$getRedditJSON.class
+1375411450000 542 8138c80018de2de9a67dd14643096be54ad687ba /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/R$drawable.class
+1375412887000 3069 d3010ca2865f93d9d088eb2305f5ecbf17f76a7c /Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/classes/debug/com/rocksauce/redditsearchandshare/utilities/HTTPUtilities.class

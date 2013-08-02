@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res" >
+            <file
+                name="bg"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-hdpi/bg.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="dimmer"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-hdpi/dimmer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="overlay"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-hdpi/overlay.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bg"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-mdpi/bg.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="dimmer"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-mdpi/dimmer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="overlay"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-mdpi/overlay.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="reddit_list"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/layout/reddit_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="reddit_post"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/layout/reddit_post.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="reddit_list"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/menu/reddit_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Reddit Search and Share
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/debug/res" />
+    </dataSet>
+
+</merger>

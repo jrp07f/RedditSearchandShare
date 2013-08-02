@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/assets" >
+            <file
+                name="fonts/bebasneue.ttf"
+                path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/assets/fonts/bebasneue.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/debug/assets" />
+    </dataSet>
+
+</merger>
