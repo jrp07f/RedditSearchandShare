@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedditSearchandShare/RedditSearchandShare.iml" filepath="$PROJECT_DIR$/RedditSearchandShare/RedditSearchandShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedditSearchandShareProject.iml" filepath="$PROJECT_DIR$/RedditSearchandShareProject.iml" />
+    </modules>
+  </component>
+</project>
+

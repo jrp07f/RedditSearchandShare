@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RedditList"
+    android:background="@drawable/bg">
+
+    <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/ripOverlay"
+            android:layout_gravity="center"
+            android:src="@drawable/overlay"
+            android:cropToPadding="false"
+            android:scaleType="fitXY"
+            android:contentDescription="rippedOverlay"/>
+
+    <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        <SearchView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/redditSearchBar"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="#adadad"/>
+
+        <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/redditListView"
+                android:layout_below="@+id/redditSearchBar"
+                android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</FrameLayout>
+<!-- From: file:/Users/Jake/Developer/Android/RedditSearchandShareProject/RedditSearchandShare/src/main/res/layout/reddit_list.xml -->
